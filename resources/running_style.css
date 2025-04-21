@@ -1,0 +1,50 @@
+/*
+  blue:#468BA6
+  orange: #F29A2E
+  light orange: #FDF0E0
+  darker blue: #1D4859
+  brown: #593814
+*/
+
+body {
+  background-color: #FDF0E0;
+  padding: 0 24px 36px 24px;
+}
+
+a {
+  color: #593814;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #1D4859;
+}
+
+h1, h2 {
+  color: #1D4859;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.picture {
+  text-align: center;
+}
+
+p, li, table {
+  font-size: 1.2em;
+}
+
+th, td {
+  border-color: #468BA6;
+  border-style: solid;
+  border-width: 3px;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
